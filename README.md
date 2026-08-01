@@ -5,6 +5,7 @@ Python solutions for LeetCode problems.
 ## Easy
 
 - [Two Sum](python/easy/two_sum.py)
+- [Palindrome Number](python/easy/palindrome_number.py)
 
 ## Run tests
 
