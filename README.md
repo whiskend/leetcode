@@ -6,6 +6,7 @@ Python solutions for LeetCode problems.
 
 - [Two Sum](python/easy/two_sum.py)
 - [Palindrome Number](python/easy/palindrome_number.py)
+- [Fizz Buzz](python/easy/fizz_buzz.py)
 
 ## Run tests
 
