@@ -9,6 +9,7 @@ Python solutions for LeetCode problems.
 - [Fizz Buzz](python/easy/fizz_buzz.py)
 - [Valid Parentheses](python/easy/valid_parentheses.py)
 - [Best Time to Buy and Sell Stock](python/easy/best_time_to_buy_and_sell_stock.py)
+- [Plus One](python/easy/plus_one.py)
 
 ## Run tests
 
