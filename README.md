@@ -11,6 +11,7 @@ Python solutions for LeetCode problems.
 - [Best Time to Buy and Sell Stock](python/easy/best_time_to_buy_and_sell_stock.py)
 - [Plus One](python/easy/plus_one.py)
 - [Move Zeroes](python/easy/move_zeroes.py)
+- [Search Insert Position](python/easy/search_insert_position.py)
 
 ## Run tests
 
