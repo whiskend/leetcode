@@ -12,6 +12,7 @@ Python solutions for LeetCode problems.
 - [Plus One](python/easy/plus_one.py)
 - [Move Zeroes](python/easy/move_zeroes.py)
 - [Search Insert Position](python/easy/search_insert_position.py)
+- [Single Number](python/easy/single_number.py)
 
 ## Run tests
 
