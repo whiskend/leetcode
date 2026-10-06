@@ -13,6 +13,7 @@ Python solutions for LeetCode problems.
 - [Move Zeroes](python/easy/move_zeroes.py)
 - [Search Insert Position](python/easy/search_insert_position.py)
 - [Single Number](python/easy/single_number.py)
+- [Majority Element](python/easy/majority_element.py)
 
 ## Run tests
 
