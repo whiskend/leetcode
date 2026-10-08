@@ -14,6 +14,7 @@ Python solutions for LeetCode problems.
 - [Search Insert Position](python/easy/search_insert_position.py)
 - [Single Number](python/easy/single_number.py)
 - [Majority Element](python/easy/majority_element.py)
+- [Contains Duplicate](python/easy/contains_duplicate.py)
 
 ## Run tests
 
