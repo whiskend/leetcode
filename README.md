@@ -15,6 +15,7 @@ Python solutions for LeetCode problems.
 - [Single Number](python/easy/single_number.py)
 - [Majority Element](python/easy/majority_element.py)
 - [Contains Duplicate](python/easy/contains_duplicate.py)
+- [Missing Number](python/easy/missing_number.py)
 
 ## Run tests
 
