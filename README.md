@@ -16,6 +16,7 @@ Python solutions for LeetCode problems.
 - [Majority Element](python/easy/majority_element.py)
 - [Contains Duplicate](python/easy/contains_duplicate.py)
 - [Missing Number](python/easy/missing_number.py)
+- [Power of Two](python/easy/power_of_two.py)
 
 ## Run tests
 
